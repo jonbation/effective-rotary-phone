@@ -25,5 +25,3 @@ String result = detection.getResult();   // Empty if status is false else gives 
 ### To-Do List
 - [ ] **Enhanced Emulator Detection**: Add more robust detection methods for various emulator environments, including less commonly used emulators.
 - [ ] **Performance Optimizations**: Optimize the detection algorithms to minimize resource usage on the app.
-
-If you’d like to contribute, please ensure that your code follows the project’s style.
