@@ -27,28 +27,3 @@ String result = detection.getResult();   // Empty if status is false else gives 
 - [ ] **Performance Optimizations**: Optimize the detection algorithms to minimize resource usage on the app.
 
 If you’d like to contribute, please ensure that your code follows the project’s style.
-
-## Changelog
-
-### v1.5.0
-- New Detections
-- Updated UI
-- Cleaned up old and inefficient code
-- Changed versioning system
-
-### v4
-- Converted core features to library module for `.aar` release
-- Changed versioning system
-- Fixed issue #1
-- **New Contributor**: @onedevapp
-
-### v0.3
-- Added detection by checking Native Bridge property
-
-### v0.2
-- Fixed various issues
-- Added ARM Translation Detection
-
-### v0.1
-- Initial release with detection for Android Studio Emulator and gaming emulators (tested on LDPlayer)
-
