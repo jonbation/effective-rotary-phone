@@ -1,12 +1,6 @@
 # Android-Emulator-Detection
 POC Tool to detect if app is ran on an emulator
 
-[![Stars](https://img.shields.io/github/stars/reveny/Android-Emulator-Detection?label=Stars)](https://github.com/reveny)
-[![Release](https://img.shields.io/github/v/release/reveny/Android-Emulator-Detection?label=Release&logo=github)](https://github.com/reveny/Android-Emulator-Detection/releases/latest)
-[![Download](https://img.shields.io/github/downloads/reveny/Android-Emulator-Detection/total?label=Downloads&logo=github)](https://github.com/reveny/Android-Emulator-Detection/releases/)
-[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/reveny1)
-[![CI](https://github.com/reveny/Android-Emulator-Detection/actions/workflows/main.yml/badge.svg)](https://github.com/reveny/Android-Emulator-Detection/actions/workflows/main.yml)
-
 # Features
 - [x] Detect Android Studio Emulator
 - [x] Detect Any Gaming Emulator
@@ -34,9 +28,6 @@ String result = detection.getResult();   // Empty if status is false else gives 
 - [ ] **Performance Optimizations**: Optimize the detection algorithms to minimize resource usage on the app.
 
 If you’d like to contribute, please ensure that your code follows the project’s style.
-
-## Preview
-<img src="https://github.com/reveny/Android-Emulator-Detection/blob/main/preview.png" width="350">
 
 ## Changelog
 
