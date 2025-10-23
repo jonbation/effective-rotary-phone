@@ -1,9 +1,8 @@
-# Android-Emulator-Detection
+# Phone Check
 POC Tool to detect if app is ran on an emulator
 
 # Features
 - [x] Detect Android Studio Emulator
-- [x] Detect Any Gaming Emulator
 - [x] List Detections
 
 # How To Use
